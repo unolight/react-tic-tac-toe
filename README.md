@@ -1,6 +1,5 @@
-Tic-tac-toe game uses react.js.
-===
-
+#### Tic-tac-toe game uses react.js.
+#### Install
 1. git clone 
 2. npm install 
 3. npm start 
